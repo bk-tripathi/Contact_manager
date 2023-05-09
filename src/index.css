@@ -5,9 +5,12 @@
 html {
   font-family: sans-serif;
   background: #1f1f1f;
-
+  background-image: url('1.jpg');
+  background-size:cover;
+  background-repeat: no-repeat;
 }
-
+body{
+}
 body h1{
   text-align: center;
  color: #ccc;

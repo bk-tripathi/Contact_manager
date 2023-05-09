@@ -48,7 +48,7 @@ const AddUser = (props) => {
   const MobileChangeHandler = (event) => {
     setEnteredMobile(event.target.value);
   };
-
+  
   const errorHandler = () => {
     setError(null);
   };
